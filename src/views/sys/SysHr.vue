@@ -156,6 +156,7 @@ export default {
         phone: '',
         telephone: '',
         address: '',
+        employee_id: null,
         enabled: false,
       }
     }
